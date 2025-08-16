@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: online-shop
-        image: amitabhdevops/online_shop
+        image: amitabhdevops/online_shop_without_footer
         resources:
           requests:
             cpu: "200m"
