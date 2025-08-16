@@ -95,3 +95,39 @@ Learn Kubernetes concepts in a 12 hour tutorial by TrainWithShubham [here](https
 3. [Redit Clone with Ingress](https://github.com/LondheShubham153/reddit-clone-k8s-ingress)
 4. [AWS EKS Best Practices](https://github.com/LondheShubham153/aws-eks-devops-best-practices)
 5. [For More Challenges, Check Out These Ideas](./examples/More_K8s_Practice_Ideas.md)
+
+## Screenshots 
+
+## Architecture Guides
+
+![Kubernetes Architecture](./screenshots/kubestl.png)
+
+---
+
+## Cluster Setup & Management
+
+![KIND Cluster](./screenshots/kind-cluster.png)
+![EC2 Security Groups](./screenshots/ec2-port.png)
+
+---
+
+## Deployment Strategies
+
+- **Blue-Green Deployment**
+  ![Blue-Green Deployment](./screenshots/blue-green.png)
+  ![BGD Example](./screenshots/bgd.png)
+
+---
+
+## Package Management & Templating
+
+- **Apache Helm Example**
+  ![Apache Helm](./screenshots/apache.png)
+
+---
+
+## Examples with Interview Questions
+
+- **NGINX Deployment**
+  ![NGINX Example](./screenshots/nginx.png)
+
